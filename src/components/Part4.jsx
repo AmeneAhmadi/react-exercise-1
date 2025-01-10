@@ -8,6 +8,7 @@ export default function Part4() {
   return (
     <>
     <h6>Part4</h6>
+    <p>If you click on this button, it will show an alert, then the button&apos;s text will be changed</p>
       <button type="button" onClick={handleClick}>
         {buttonText}
       </button>

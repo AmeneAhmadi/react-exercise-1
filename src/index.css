@@ -48,6 +48,9 @@ h6{
   text-align: center;
   background-color: #86e5fd;
 }
+.blue{
+  color: #00ccff;
+}
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;

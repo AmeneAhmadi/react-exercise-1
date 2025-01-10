@@ -3,6 +3,7 @@ export default function Part5() {
   return (
     <>
       <h6>Part5</h6>
+      <p>This part renders a list of items dynamically.</p>
       <div>
         <ul>
           {items.map((item, index) => (

@@ -12,6 +12,7 @@ export default function Part6() {
   return (
     <>
       <h6>Part6</h6>
+      <p>This part renders a div with dynamic styles.</p>
       <div>
         <div style={styles}>This is a dynamically styled div!</div>
       </div>

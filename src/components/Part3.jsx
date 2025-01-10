@@ -3,6 +3,7 @@ export default function Part3() {
   return (
     <>
       <h6>Part3</h6>
+      <p>This part shows a message based on user status of logging. </p>
       {isLoggedIn ? (
         <h3>Welcome...</h3>
       ) : (
